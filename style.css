@@ -1,0 +1,14 @@
+.card {
+    margin: 15px;
+    padding: 0px;
+  }
+  
+  .row {
+    justify-content: center;
+  }
+  p{
+      color: rgb(255, 255, 255);
+  }
+  card-title center-align{
+      color: white;
+  }
